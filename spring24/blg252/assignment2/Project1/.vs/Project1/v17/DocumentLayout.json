@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\itu_programming\\oop24\\assignment2\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE669F4-2BA1-4FB8-BC7F-E68825C4120A}|Project1.vcxproj|C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE669F4-2BA1-4FB8-BC7F-E68825C4120A}|Project1.vcxproj|C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\factory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE669F4-2BA1-4FB8-BC7F-E68825C4120A}|Project1.vcxproj|C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\headworker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE669F4-2BA1-4FB8-BC7F-E68825C4120A}|Project1.vcxproj|C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "headworker.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\headworker.cpp",
+              "RelativeDocumentMoniker": "..\\hw2_skeleton\\src\\headworker.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\headworker.cpp",
+              "RelativeToolTip": "..\\hw2_skeleton\\src\\headworker.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T07:57:34.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "factory.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\factory.cpp",
+              "RelativeDocumentMoniker": "..\\hw2_skeleton\\src\\factory.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\factory.cpp",
+              "RelativeToolTip": "..\\hw2_skeleton\\src\\factory.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T07:56:33.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\simulation.cpp",
+              "RelativeDocumentMoniker": "..\\hw2_skeleton\\src\\simulation.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\simulation.cpp",
+              "RelativeToolTip": "..\\hw2_skeleton\\src\\simulation.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T20:15:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\hw2_skeleton\\src\\main.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\oop24\\assignment2\\hw2_skeleton\\src\\main.cpp",
+              "RelativeToolTip": "..\\hw2_skeleton\\src\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T20:15:09.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
