@@ -1,0 +1,37 @@
+solid Mesh
+facet
+outer loop
+vertex 0 0 10
+vertex 0 -5 0
+vertex 0 5 0
+endloop
+endfacet
+facet
+outer loop
+vertex 0 0 20
+vertex 0 -5 10
+vertex 0 5 10
+endloop
+endfacet
+facet
+outer loop
+vertex 0 0 30
+vertex 0 -5 20
+vertex 0 5 20
+endloop
+endfacet
+facet
+outer loop
+vertex 0 0 40
+vertex 0 -5 30
+vertex 0 5 30
+endloop
+endfacet
+facet
+outer loop
+vertex 0 0 50
+vertex 0 -5 40
+vertex 0 5 40
+endloop
+endfacet
+endsolid Mesh
