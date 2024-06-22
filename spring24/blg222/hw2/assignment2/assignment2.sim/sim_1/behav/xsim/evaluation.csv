@@ -1,0 +1,9 @@
+module_name;testno,test_name;passed;actual_value;expected_value
+Register;1;Q;1;0x0025;0x0025
+Register;2;Q;1;0x0024;0x0024
+Register;3;Q;1;0x0025;0x0025
+Register;4;Q;1;0x0026;0x0026
+Register;5;Q;1;0x0025;0x0025
+Register;6;Q;1;0x0012;0x0012
+Register;7;Q;1;0x0025;0x0025
+Register;8;Q;1;0x0000;0x0000

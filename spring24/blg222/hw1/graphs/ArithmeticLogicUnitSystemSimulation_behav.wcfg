@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ArithmeticLogicUnitSystemSimulation_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ArithmeticLogicUnitSystemSimulation" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="999997741fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000452fs"></ZoomEndTime>
+      <Cursor1Time time="999999000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="23" />
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/RF_OutASel" type="array">
+      <obj_property name="ElementShortName">RF_OutASel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutASel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/RF_OutBSel" type="array">
+      <obj_property name="ElementShortName">RF_OutBSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_OutBSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/RF_FunSel" type="array">
+      <obj_property name="ElementShortName">RF_FunSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_FunSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/RF_RegSel" type="array">
+      <obj_property name="ElementShortName">RF_RegSel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_RegSel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/RF_ScrSel" type="array">
+      <obj_property name="ElementShortName">RF_ScrSel[3:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_ScrSel[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ALU_FunSel" type="array">
+      <obj_property name="ElementShortName">ALU_FunSel[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_FunSel[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ALU_WF" type="logic">
+      <obj_property name="ElementShortName">ALU_WF</obj_property>
+      <obj_property name="ObjectShortName">ALU_WF</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ARF_OutCSel" type="array">
+      <obj_property name="ElementShortName">ARF_OutCSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_OutCSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ARF_OutDSel" type="array">
+      <obj_property name="ElementShortName">ARF_OutDSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_OutDSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ARF_FunSel" type="array">
+      <obj_property name="ElementShortName">ARF_FunSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_FunSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/ARF_RegSel" type="array">
+      <obj_property name="ElementShortName">ARF_RegSel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ARF_RegSel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/IR_LH" type="logic">
+      <obj_property name="ElementShortName">IR_LH</obj_property>
+      <obj_property name="ObjectShortName">IR_LH</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/IR_Write" type="logic">
+      <obj_property name="ElementShortName">IR_Write</obj_property>
+      <obj_property name="ObjectShortName">IR_Write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/Mem_WR" type="logic">
+      <obj_property name="ElementShortName">Mem_WR</obj_property>
+      <obj_property name="ObjectShortName">Mem_WR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/Mem_CS" type="logic">
+      <obj_property name="ElementShortName">Mem_CS</obj_property>
+      <obj_property name="ObjectShortName">Mem_CS</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/MuxASel" type="array">
+      <obj_property name="ElementShortName">MuxASel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxASel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/MuxBSel" type="array">
+      <obj_property name="ElementShortName">MuxBSel[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MuxBSel[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/MuxCSel" type="logic">
+      <obj_property name="ElementShortName">MuxCSel</obj_property>
+      <obj_property name="ObjectShortName">MuxCSel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/test_no" type="array">
+      <obj_property name="ElementShortName">test_no[31:0]</obj_property>
+      <obj_property name="ObjectShortName">test_no[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/N" type="logic">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ArithmeticLogicUnitSystemSimulation/O" type="logic">
+      <obj_property name="ElementShortName">O</obj_property>
+      <obj_property name="ObjectShortName">O</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Helper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FileOperation
+INFO: [VRFC 10-311] analyzing module CrystalOscillator
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/RegisterSimulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterSimulation

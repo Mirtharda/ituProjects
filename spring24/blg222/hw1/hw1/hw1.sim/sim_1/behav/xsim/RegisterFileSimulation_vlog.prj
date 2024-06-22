@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../ExampleSubmissionV2/Helper.v" \
+"../../../../../ExampleSubmissionV2/Register.v" \
+"../../../../../ExampleSubmissionV2/RegisterFile.v" \
+"../../../../../ExampleSubmissionV2/RegisterFileSimulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

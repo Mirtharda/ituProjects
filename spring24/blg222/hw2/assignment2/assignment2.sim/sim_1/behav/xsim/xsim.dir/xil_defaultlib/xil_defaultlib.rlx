@@ -1,0 +1,15 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/AddressRegisterFile.v,1714665110,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnit.v,,AddressRegisterFile,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnit.v,1714665132,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnitSystem.v,,ArithmeticLogicUnit,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnitSystem.v,1714665152,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Helper.v,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnitSystemSimulation.v,1712743696,verilog,,,,ArithmeticLogicUnitSystemSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Helper.v,1712743696,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Register.v,,CrystalOscillator;FileOperation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/InstructionRegister.v,1714665091,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Memory.v,,InstructionRegister,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Memory.v,1712743696,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Register.v,,Memory,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/Register.v,1714680580,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/RegisterSimulation.v,,Register,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/RegisterFile.v,1714665068,verilog,,C:/itu_hw/spring2024/comp_org/hw2/ExampleSubmission/ArithmeticLogicUnitSystemSimulation.v,,RegisterFile,,,,,,,,
+,,,,,,RegisterSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw2/assignment2/assignment2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,

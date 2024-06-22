@@ -1,0 +1,17 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/AddressRegisterFile.v,1712078919,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Helper.v,,AddressRegisterFile,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/ArithmeticLogicUnit.v,1712067878,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/ArithmeticLogicUnitSystem.v,,ArithmeticLogicUnit,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/ArithmeticLogicUnitSimulation.v,1712056067,verilog,,,,ArithmeticLogicUnitSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/ArithmeticLogicUnitSystem.v,1712067904,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Helper.v,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/ArithmeticLogicUnitSystemSimulation.v,1711623380,verilog,,,,ArithmeticLogicUnitSystemSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Helper.v,1711623380,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Register.v,,CrystalOscillator;FileOperation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/InstructionRegister.v,1712067718,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Memory.v,,InstructionRegister,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/InstructionRegisterSimulation.v,1711623380,verilog,,,,InstructionRegisterSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Memory.v,1711623380,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Register.v,,Memory,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/Register.v,1712067620,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/AddressRegisterFileSimulation.v,,Register,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/RegisterFile.v,1712079331,verilog,,C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/RegisterFileSimulation.v,,RegisterFile,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/ExampleSubmissionV2/RegisterFileSimulation.v,1711623380,verilog,,,,RegisterFileSimulation,,,,,,,,
+C:/itu_hw/spring2024/comp_org/hw1/hw1/hw1.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,

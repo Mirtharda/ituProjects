@@ -1,0 +1,15 @@
+------------------------------------
+Register Simulation Started
+[PASS] Test No: 1, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 2, Component: Q, Actual Value: 0x0024, Expected Value: 0x0024
+[PASS] Test No: 3, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 4, Component: Q, Actual Value: 0x0026, Expected Value: 0x0026
+[PASS] Test No: 5, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 6, Component: Q, Actual Value: 0x0012, Expected Value: 0x0012
+[PASS] Test No: 7, Component: Q, Actual Value: 0x0025, Expected Value: 0x0025
+[PASS] Test No: 8, Component: Q, Actual Value: 0x0000, Expected Value: 0x0000
+Register Simulation Finished
+------------------------------------
+
+
+
