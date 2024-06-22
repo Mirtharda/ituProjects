@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\itu_programming\\data24\\hw3\\data_hw3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D293B88-D94F-472B-BEAB-332854451EB6}|data_hw3.vcxproj|C:\\Programming\\itu_programming\\data24\\hw3\\skeleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D293B88-D94F-472B-BEAB-332854451EB6}|data_hw3.vcxproj|C:\\Programming\\itu_programming\\data24\\hw3\\mid2name.tsv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D293B88-D94F-472B-BEAB-332854451EB6}|data_hw3.vcxproj|C:\\Programming\\itu_programming\\data24\\hw3\\freebase.tsv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mid2name.tsv",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\data24\\hw3\\mid2name.tsv",
+              "RelativeDocumentMoniker": "..\\mid2name.tsv",
+              "ToolTip": "C:\\Programming\\itu_programming\\data24\\hw3\\mid2name.tsv",
+              "RelativeToolTip": "..\\mid2name.tsv",
+              "ViewState": "AQIAAIwoAAAAAAAAAAAuwKMoAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T13:26:03.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "freebase.tsv",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\data24\\hw3\\freebase.tsv",
+              "RelativeDocumentMoniker": "..\\freebase.tsv",
+              "ToolTip": "C:\\Programming\\itu_programming\\data24\\hw3\\freebase.tsv",
+              "RelativeToolTip": "..\\freebase.tsv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-05T13:23:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "skeleton.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\data24\\hw3\\skeleton.cpp",
+              "RelativeDocumentMoniker": "..\\skeleton.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\data24\\hw3\\skeleton.cpp",
+              "RelativeToolTip": "..\\skeleton.cpp",
+              "ViewState": "AQIAALcAAAAAAAAAAAAAAM8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T22:15:57.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

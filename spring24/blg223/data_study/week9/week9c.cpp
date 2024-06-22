@@ -27,7 +27,7 @@ void printSet(const set<int>& s) {
 }
 
 int main() {
-    string text = "Hello wrold!";
+    string text = "Hello world!";
     cout << "The number of vowels in \"" << text 
         << "\" is " << countVowels(text) << "." << endl;
 

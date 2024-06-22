@@ -1,0 +1,3 @@
+﻿  skeleton.cpp
+C:\Programming\itu_programming\data24\hw3\skeleton.cpp(46,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  data_hw3.vcxproj -> C:\Programming\itu_programming\data24\hw3\data_hw3\x64\Debug\data_hw3.exe

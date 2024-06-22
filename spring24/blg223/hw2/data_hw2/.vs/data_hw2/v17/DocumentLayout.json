@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\itu_programming\\data24\\hw2\\data_hw2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E138AC-DDA5-4BB0-BE96-A8148B2E259F}|data_hw2.vcxproj|C:\\Programming\\itu_programming\\data24\\hw2\\skeleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E138AC-DDA5-4BB0-BE96-A8148B2E259F}|data_hw2.vcxproj|C:\\Programming\\itu_programming\\data24\\hw2\\doublelinklist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "skeleton.cpp",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\data24\\hw2\\skeleton.cpp",
+              "RelativeDocumentMoniker": "..\\skeleton.cpp",
+              "ToolTip": "C:\\Programming\\itu_programming\\data24\\hw2\\skeleton.cpp",
+              "RelativeToolTip": "..\\skeleton.cpp",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAuwHwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T10:06:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doublelinklist.h",
+              "DocumentMoniker": "C:\\Programming\\itu_programming\\data24\\hw2\\doublelinklist.h",
+              "RelativeDocumentMoniker": "..\\doublelinklist.h",
+              "ToolTip": "C:\\Programming\\itu_programming\\data24\\hw2\\doublelinklist.h",
+              "RelativeToolTip": "..\\doublelinklist.h",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T18:00:56.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
