@@ -33,7 +33,7 @@ SetupP1		mov.b	#00000000b, &P2SEL
 		mov.b	#10000000b, R6
 		mov.b	#0d, R8
 
-		;is.b   #00000001b, &P2REN     ; Enable pull-up/pull-down resistor on P2.0
+		;bis.b   #00000001b, &P2REN     ; Enable pull-up/pull-down resistor on P2.0
 
 Mainloop1	bis.b	R6, &P1OUT
 		inc 	R8
