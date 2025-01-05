@@ -32,7 +32,7 @@ SetupP1		mov.b	#00000000b, &P2SEL
 ;her þey sýfýrlanacak
 ;1 yanacak
 
-Mainloop1	mov.b	#00000000b, &P2OUT		;P1 yanacak
+Mainloop1	mov.b	#00000000b, &P2OUT 	;P1 yanacak
 		bis.b	R6, &P1OUT
 		inc	R8
 		rra	R6
@@ -43,7 +43,7 @@ L1		dec.w	R15
 		bis.b	R6, &P2OUT
 		inc	R8
 		rra	R6
-		mov.b	#00500000, R15			;delay to be able to observe the led
+		mov.b	#00500000, R15		;delay to be able to observe the led
 L2		dec.w	R15
 		jnz	L2
 		cmp	#8d, R8
