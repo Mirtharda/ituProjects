@@ -41,7 +41,7 @@ Mainloop1	mov.b	#00000000,&P1OUT
 		rra	R7			;rotate left arithmetically
 		mov.w	#00500000, R15
 L1		dec.w	R15
-		jnz 	L1			;jump to L1 if not zero
+		jnz	L1			;jump to L1 if not zero
 		cmp	#4d, R8
 		jeq	Mainloop2		;if R8 = 4d jump to mainloop2
 		jmp	Mainloop1
@@ -51,12 +51,11 @@ Mainloop2  	mov.b	#00000000,&P2OUT
 		inc	R9
 		rla	R6
 		mov.w	#00500000, R15
-L2			dec.w 	R15
+L2		dec.w	R15
 		jnz	L2
 		cmp	#4d, R9
 		jeq	SetupP1
 		jmp	Mainloop2
-
 ;-------------------------------------------------------------------------------
 ; Stack Pointer definition
 ;-------------------------------------------------------------------------------
