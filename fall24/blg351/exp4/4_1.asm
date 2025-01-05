@@ -31,14 +31,14 @@ Setup		mov	#array, R5
 			mov	#resultArray, R10
 
 Mainloop	mov.b	@R5, R6
-			inc	R5
+			inc		R5
 			call	#func1
 
 			mov.b	R6, 0(R10)
-			inc R10
+			inc 	R10
 
 			cmp	#lastElement, R5
-			jlo	Mainloop
+			jlo		Mainloop
 			jmp	finish
 
 func1		dec.b	R6
