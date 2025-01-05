@@ -37,7 +37,7 @@ SetupP1		mov.b	#11111111b,&P1DIR	;can set every bit bit as output
 		;What is the difference between mov and bis
 Mainloop1	mov.b	#00000000,&P1OUT
 		bis.b	R7, &P2OUT
-		inc 	R8
+		inc	R8
 		rra	R7			;rotate left arithmetically
 		mov.w	#00500000, R15
 L1		dec.w	R15
