@@ -21,34 +21,34 @@ StopWDT     mov.w   #WDTPW|WDTHOLD,&WDTCTL  ; Stop watchdog timer
 ; Main loop here
 ;-------------------------------------------------------------------------------
 SetupP1		mov.b	#00000000b, &P2SEL
-		mov.b	#11111111b,&P1DIR
-		mov.b	#11111111b,&P2DIR
-		mov.b	#00000000b,&P1OUT
-		mov.b	#00000000b,&P2OUT
-		mov.b	#10000000b, R6
-		mov.b	#0d, R8
+			mov.b	#11111111b,&P1DIR
+			mov.b	#11111111b,&P2DIR
+			mov.b	#00000000b,&P1OUT
+			mov.b	#00000000b,&P2OUT
+			mov.b	#10000000b, R6
+			mov.b	#0d, R8
 
 ;önce 0 yanacak
 ;her þey sýfýrlanacak
 ;1 yanacak
-
-Mainloop1	mov.b	#00000000b, &P2OUT 	;P1 yanacak
-		bis.b	R6, &P1OUT
-		inc	R8
-		rra	R6
-		mov.w	#00500000, R15
-L1		dec.w	R15
-		jnz	L1
-		mov.b	#00000000b, &P1OUT
-		bis.b	R6, &P2OUT
-		inc	R8
-		rra	R6
-		mov.b	#00500000, R15		;delay to be able to observe the led
-L2		dec.w	R15
-		jnz	L2
-		cmp	#8d, R8
-		jeq	SetupP1
-		jmp	Mainloop1
+	
+Mainloop1	mov.b	#00000000b, &P2OUT 		;P1 yanacak
+			bis.b	R6, &P1OUT
+			inc		R8
+			rra		R6
+			mov.w	#00500000, R15
+L1			dec.w	R15
+			jnz		L1
+			mov.b	#00000000b, &P1OUT
+			bis.b	R6, &P2OUT
+			inc		R8
+			rra		R6
+			mov.b	#00500000, R15			;delay to be able to observe the led
+L2			dec.w	R15
+			jnz		L2
+			cmp		#8d, R8
+			jeq		SetupP1
+			jmp		Mainloop1
 ;-------------------------------------------------------------------------------
 ; Stack Pointer definition
 ;-------------------------------------------------------------------------------
