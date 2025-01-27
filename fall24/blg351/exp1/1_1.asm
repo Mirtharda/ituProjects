@@ -18,12 +18,9 @@
 ;-------------------------------------------------------------------------------
 RESET       mov.w   #__STACK_END,SP         ; Initialize stackpointer
 StopWDT     mov.w   #WDTPW|WDTHOLD,&WDTCTL  ; Stop watchdog timer
-
-
 ;-------------------------------------------------------------------------------
 ; Main loop here
 ;-------------------------------------------------------------------------------
-
 SetupP1		mov.b	#11111111b,&P1DIR		;can set every bit bit as output
 			mov.b	#11111111b,&P2DIR		; b -> bit ; h -> hexadecimal ; d -> decimal ; .b -> byte
 			mov.b	#00000000b,&P1OUT		;all leds are set to 0 initially
@@ -45,7 +42,7 @@ L1			dec.w	R15
 			cmp		#4d, R8
 			jeq		Mainloop2				;if R8 = 4d jump to mainloop2
 			jmp		Mainloop1
-
+			
 Mainloop2  	mov.b	#00000000,&P2OUT
 			bis.b	R6, &P1OUT
 			inc		R9
@@ -56,7 +53,6 @@ L2			dec.w 	R15
 			cmp		#4d, R9
 			jeq		SetupP1
 			jmp		Mainloop2
-
 ;-------------------------------------------------------------------------------
 ; Stack Pointer definition
 ;-------------------------------------------------------------------------------
