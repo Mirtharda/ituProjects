@@ -39,14 +39,13 @@ Mainloop1	bis.b	R6, &P1OUT
 			inc 	R8
 			rra		R6						;rotate right arithmetically
 			rla		R7						;rotate left arithmetically
-			mov.w	#00500000,	R15
-
+			mov.w	#00500000, R15
+	
 L1			dec.w	R15
 			jnz 	L1						;jump to L1 if not zero
 			cmp		#4d, R8
 			jeq		SetupP1
 			jmp		Mainloop1
-
 ;-------------------------------------------------------------------------------
 ; Stack Pointer definition
 ;-------------------------------------------------------------------------------

@@ -14,7 +14,6 @@
                                             ; and retain current section.
             .retainrefs                     ; And retain any sections that have
                                             ; references to current section.
-
 ;-------------------------------------------------------------------------------
 RESET       mov.w   #__STACK_END,SP         ; Initialize stackpointer
 StopWDT     mov.w   #WDTPW|WDTHOLD,&WDTCTL  ; Stop watchdog timer
@@ -34,11 +33,11 @@ SetupP1		mov.b	#11111111b,&P1DIR		;can set every bit bit as output
 			;What is the difference between mov and bis
 Mainloop1	mov.b	#00000000,&P1OUT
 			bis.b	R7, &P2OUT
-			inc 	R8
-			rra		R7						;rotate left arithmetically
-			mov.w	#00500000,	R15
+			inc	R8
+			rra	R7							;rotate left arithmetically
+			mov.w	#00500000, R15
 L1			dec.w	R15
-			jnz 	L1						;jump to L1 if not zero
+			jnz		L1						;jump to L1 if not zero
 			cmp		#4d, R8
 			jeq		Mainloop2				;if R8 = 4d jump to mainloop2
 			jmp		Mainloop1
@@ -48,7 +47,7 @@ Mainloop2  	mov.b	#00000000,&P2OUT
 			inc		R9
 			rla		R6
 			mov.w	#00500000, R15
-L2			dec.w 	R15
+L2			dec.w	R15
 			jnz		L2
 			cmp		#4d, R9
 			jeq		SetupP1
